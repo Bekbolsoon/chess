@@ -528,7 +528,7 @@ a {
   .stages-slider__slide:nth-child(1), .stages-slider__slide:nth-child(2), .stages-slider__slide:nth-child(3), .stages-slider__slide:nth-child(4), .stages-slider__slide:nth-child(5) {
     flex-direction: column;
     gap: 2.8rem;
-    background: url("../img/stages/bg-stage.png");
+    background: url("img/stages/bg-stage.png");
     background-size: cover;
     background-repeat: no-repeat;
   }
@@ -583,7 +583,7 @@ a {
   background: #313131;
 }
 .stages__item {
-  background: url("../img/stages/bg-stage.png");
+  background: url("img/stages/bg-stage.png");
   background-size: cover;
   background-repeat: no-repeat;
   padding: 2rem;
